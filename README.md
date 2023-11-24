@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have a Master of Engineering. I have specialties in natural language processings, wireless communications and optical communications.
+
+ I worked as an editor of technical magazine "Transistor Technology" published in Japan, a system engineer at reservation systems of the major playhouse of Japan, a lecturer of the very major science university in Japan, and the manager at the system engineering section of the major arts university in Japan.
+
+I am a professional of networking, specialising in Cisco switch/router, firewall of PaloAlto and FortiGate, and Wi-FI technologies.
+
+I have programming language skills like C, C++, Pascal, SQL, Java, C#, scheme, Perl, Ruby, Python, javascript, VB, sh and assembly for x86.
+
+And I also have skills in mechanical designs and 3D CAD. I have interestings for 3D printing and 5 axes CNC machines.
