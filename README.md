@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have a Master of Engineering. I have specialties in natural language processings, wireless communications and optical communications.
+I am a Master of Engineering. My specialties are natural language processings, wireless communications and optical communications.
 
- I worked as an editor of technical magazine "Transistor Technology" published in Japan, a system engineer at reservation systems of the major playhouse of Japan, a lecturer of the very major science university in Japan, and the manager at the system engineering section of the major arts university in Japan.
+I worked as an editor of the technical magazine the Transistor Technology published in Japan, a system engineer at the major playhouse in Japan, a lecturer of the Science University of Tokyo, and the manager of the system administrating section at an university.
 
-I am a professional of networking, specialising in Cisco switch/router, firewall of PaloAlto and FortiGate, and Wi-FI technologies.
+I am also a professional of networking, specialising in Cisco switch/router, firewall of PaloAlto and FortiGate, and Wi-FI technologies.
 
 I have programming language skills like C, C++, Pascal, SQL, Java, C#, scheme, Perl, Ruby, Python, javascript, VB, sh and assembly for x86.
 
-And I also have skills in mechanical designs and 3D CAD. I have interestings for 3D printing and 5 axes CNC machines.
+And I also have skills in mechanical designs and 3D CAD. I have interestings for 3D printing and 5 axes CNC machines now.
