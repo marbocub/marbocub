@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Master of Engineering. My specialties are natural language processings, wireless communications and optical communications.
+I am a Master of Engineering. My specialties are natural language processing, wireless communications and all-optical signal processing.
 
 I worked as an editor of the technical magazine the Transistor Technology published in Japan, a system engineer at the major playhouse in Japan, a lecturer of the Science University of Tokyo, and the manager of the system administrating section at an university.
 
-I am also a professional of networking, specialising in Cisco switch/router, firewall of PaloAlto and FortiGate, and Wi-FI technologies.
+I am also a professional of networking, specialising in Cisco switch/router, firewall of PaloAlto and FortiGate, and Wi-FI systems.
 
 I have programming language skills like C, C++, Pascal, SQL, Java, C#, scheme, Perl, Ruby, Python, javascript, VB, sh and assembly for x86.
 
