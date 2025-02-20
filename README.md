@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 I obtained a high school equivalency diploma and pursued higher education at a university after turning 30. After earning a Master of Engineering degree in graduate school, I conducted research in a doctoral program. My research specialties include natural language processing, wireless communications, and all-optical signal processing.
 
-I have worked as an editor for Transistor Technology, a technical magazine published in Japan, as a system engineer at a major playhouse in Japan, as a lecturer at Tokyo University of Science, and as the manager of the system administration department at a university.
+I have worked as an editor for Transistor Technology, a technical magazine published in Japan; as a system engineer at a major playhouse in Japan; as a lecturer at Tokyo University of Science; and as the manager of the system administration department at a women's university.
 
-I am also a networking professional, specializing in Cisco switches and routers, Palo Alto and FortiGate firewalls, and Wi-Fi systems.
+I am also a networking professional specializing in Cisco switches and routers, Palo Alto and FortiGate firewalls, Wi-Fi systems, and SINET (the Science Information Network of Japan).
 
-I have experience with multiple programming languages, including C, C++, Pascal, SQL, Java, C#, Scheme, Perl, Ruby, Python, JavaScript, VB, Shell scripting, and x86 assembly.
+I have experience with multiple programming languages, including C, C++, Pascal, SQL, Java, C#, Scheme, Perl, Ruby, Python, JavaScript, VB, shell scripting, and x86 assembly.
 
-Additionally, I have expertise in mechanical design and 3D CAD. I am currently interested in 3D printing and five-axis CNC machines.
+Additionally, I have expertise in mechanical design and 3D CAD. My current interests include 3D printing and five-axis CNC machining.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marbocub&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marbocub&theme=2077)
