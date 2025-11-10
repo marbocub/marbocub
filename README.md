@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I obtained a high school equivalency diploma and pursued higher education at a university after turning 30. After earning a Master of Engineering degree in graduate school, I conducted research in a doctoral program. My research specialties include natural language processing, wireless communications, and all-optical signal processing. Additionally, I earned a high school teaching license through coursework at another university.
+I earned a high school equivalency diploma and pursued university studies after turning 30. Following my Master of Engineering degree in graduate school, I conducted research in a doctoral program. My research specialties include natural language processing, wireless communications, and all-optical signal processing. In addition, I obtained a high school teaching license through coursework at another university.
 
-I have worked as an editor for Transistor Technology, a technical magazine published in Japan; as a system engineer at a major playhouse in Japan; as a lecturer at Tokyo University of Science; and as the manager of the system administration department at a women's university.
+My professional background includes serving as an editor for *Transistor Technology*, a technical magazine published in Japan; working as a system engineer at a major playhouse in Japan; at a venture company, developing embedded implementations of cryptographic processing, including what was then the world’s fastest C and assembly implementations of the Rijndael cipher; lecturing at Tokyo University of Science; and working as the manager of the system administration department at a prestigious women’s university in Japan.
 
-I am also a networking professional specializing in Cisco switches and routers, Palo Alto and FortiGate firewalls, Wi-Fi systems, and SINET (the Science Information Network of Japan).
+I am also a networking professional with expertise in Cisco switches and routers, Palo Alto and FortiGate firewalls, Wi-Fi systems, and SINET (the Science Information Network of Japan).
 
-I have experience with multiple programming languages, including C, C++, Pascal, SQL, Java, C#, Scheme, Perl, Ruby, Python, JavaScript, VB, shell scripting, and x86 assembly.
+I have experience with a wide range of programming languages, including C, C++, Pascal, SQL, Java, C#, Scheme, Perl, Ruby, Python, JavaScript, VB, shell scripting, and x86 assembly.
 
 Furthermore, I have expertise in mechanical design and 3D CAD. My current interests include 3D printing and five-axis CNC machining.
 
