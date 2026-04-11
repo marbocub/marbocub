@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I earned a high school equivalency diploma and pursued university studies after turning 30. Following my Master of Engineering degree in graduate school, I conducted research in a doctoral program. My research specialties include natural language processing, wireless communications, and all-optical signal processing. In addition, I obtained a high school teaching license through coursework at another university.
+Engineer with a Master of Engineering and research experience in NLP, wireless communications, and all-optical signal processing.
 
-My professional background includes serving as an editor for *Transistor Technology*, a technical magazine published in Japan; working as a system engineer at a major playhouse in Japan; at a venture company, where I developed embedded implementations—for example, implementing the Rijndael cipher in C and assembly with world‑leading performance at the time—developed a well‑known commercial accounting software package, and contributed to system architecture for academic institutions; lecturing at Tokyo University of Science; and working as the manager of the system administration department at a prestigious women’s university in Japan.
+I work across a wide technical spectrum—from electronic circuit design, embedded systems, and low-level programming to real-time databases, high-performance computing, and large-scale network infrastructure—delivering practical results in both academia and industry.
 
-I am also a networking professional with expertise in Cisco switches and routers, Palo Alto and FortiGate firewalls, Wi-Fi systems, and SINET (the Science Information Network of Japan).
+Skilled in C/C++, scripting languages, and system architecture, with hands-on experience in network infrastructure (Cisco, firewalls, SINET).
 
-I have experience with a wide range of programming languages, including C, C++, Pascal, SQL, Java, C#, Scheme, Perl, Ruby, Python, JavaScript, VB, shell scripting, and x86 assembly.
+Additional experience includes technical editing and academic lecturing and administration.
 
-Furthermore, I have expertise in mechanical design and 3D CAD. My current interests include 3D printing and five-axis CNC machining.
+Currently exploring mechanical design, 3D CAD, 3D printing, and five-axis CNC.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marbocub&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marbocub&theme=2077)
