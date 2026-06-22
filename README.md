@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marbocub&count_private=true&show_icons=true)
@@ -18,15 +18,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Engineer with a Master of Engineering and research experience in NLP, wireless communications, and all-optical signal processing.
+Curiosity-driven engineer: started by designing carbon fiber bike parts,
+taught myself structural mechanics and FEM, then pushed a PC-9801FA
+— NEC's dominant Japanese PC of the era — from 16 to 144 MHz with a
+custom GAL, all to run the FEM simulations faster.
 
-I work across a wide technical spectrum—from electronic circuit design, embedded systems, and low-level programming to real-time databases, high-performance computing, and large-scale network infrastructure—delivering practical results in both academia and industry.
+That pattern stuck. Career highlights:
+- Rijndael in C/asm for an embedded Linux appliance — unofficial world-fastest implementation (early 2000s)
+- Connected a university to SINET (Japan's national academic research network) single-handedly
+- M.Eng. + doctoral research in NLP, wireless comms & all-optical signal processing
+- Vertical stack: circuit design → embedded systems → HPC (40c/80t) → network infrastructure
+- Networking: Cisco · Palo Alto · FortiGate · Ruckus
+- Contributor: FreeCAD · Klipper · Marlin · Haiku OS · Inkline · others
+- Translation/L10n: CfdOF (CFD workbench for FreeCAD)
 
-Skilled in C/C++, scripting languages, and system architecture, with hands-on experience in network infrastructure (Cisco, firewalls, SINET).
-
-Additional experience includes technical editing and academic lecturing and administration.
-
-Currently exploring mechanical design, 3D CAD, 3D printing, and five-axis CNC.
+Currently building custom 3D printers and exploring multi-axis CNC.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marbocub&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marbocub&theme=2077)
